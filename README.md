@@ -1,5 +1,5 @@
 # Dialogue_system
-Transformerを用いた対話システムです．
+Transformerを用いた対話システムとそれを利用した対話実験用のプログラムです．
 
 卒業研究にて制作し，実験に用いました．
 
